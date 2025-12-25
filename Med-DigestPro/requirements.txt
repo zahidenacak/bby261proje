@@ -1,0 +1,8 @@
+flask
+requests
+beautifulsoup4
+google-generativeai
+python-dotenv
+flask_sqlalchemy
+fpdf
+feedparser
